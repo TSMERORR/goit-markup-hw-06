@@ -378,8 +378,7 @@ body {
 
 @media screen and (min-width: 768px) {
     .solutions {
-        background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-            url('../images/people-office-tablet.jpg');
+        background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url('../images/people-office-tablet.jpg');
         max-width: 768px;
         padding: 112px 0;
     }
@@ -388,7 +387,7 @@ body {
 @media screen and (min-device-pixel-ratio: 2),
 (min-resolution: 2dppx),(min-resolution: 192dpi) {
     .solutions {
-    	 background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url('../images/people-office-mobile-2x.jpg');
+    	 background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url('../images/people-office-tablet-2x.jpg');
      }
 }
 
